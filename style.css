@@ -1,0 +1,15 @@
+li {
+  float: left;
+}
+
+a {
+  display: block; 
+  /* background-color: #dddddd; */
+  width: 200px;
+  height: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
